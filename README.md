@@ -1,2 +1,2 @@
-#Toy App
+# Toy App
 First project in RoR
